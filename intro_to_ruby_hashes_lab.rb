@@ -4,7 +4,7 @@ def new_hash
 end
 
 def actor
-  action = {name: "Dwayne "
+  action = {name: "Dwayne The Rock Johnson"
 
 end
 
