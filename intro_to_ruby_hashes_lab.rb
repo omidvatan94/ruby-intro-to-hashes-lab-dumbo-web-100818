@@ -5,7 +5,6 @@ end
 
 def actor
   action = {name: "Dwayne The Rock Johnson"
-
 end
 
 def monopoly
