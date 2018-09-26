@@ -1,10 +1,10 @@
 def new_hash
-  hash = {}
-  hash
+	new_hash = {}
+	new_hash
 end
 
 def actor
-  action = {name: "Dwayne The Rock Johnson"
+	actor = {name: "Dwayne The Rock Johnson"}
 end
 
 def monopoly
@@ -62,7 +62,4 @@ def monopoly_with_fourth_tier
 			}
 		}
 	}
-end
-
-
 
